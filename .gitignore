@@ -1,0 +1,10 @@
+# Ignore all pcap and csv files (packet traces, output data)
+*.pcap
+*.csv
+
+# Ignore Python virtual environments
+venv/
+.env/
+__pycache__/
+*.pyc
+
